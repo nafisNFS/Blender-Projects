@@ -4,6 +4,13 @@ This is a curated collection of renders and animations created using **Blender**
 
 ---
 
+## 🌍 Themed Project: Past • Present • Future
+
+A visual storytelling journey through the **evolution of human civilization** — from humble rural beginnings, to modern city life, and into a futuristic vision.  
+📺 Watch it here on YouTube: [**Past • Present • Future**](https://youtu.be/ZT7H_jnc8as)
+
+---
+
 ## 🖼️ Image Gallery
 
 | | |
@@ -28,8 +35,8 @@ This is a curated collection of renders and animations created using **Blender**
 ## 📁 About
 
 These projects were developed in **Blender** as part of an exploration into:
-- 3D modeling and environment design
-- Camera animation and storytelling
+- 3D modeling and environment design  
+- Camera animation and storytelling  
 - Lighting, rendering, and visual effects
 
-Feel free to explore the content, and thank you for viewing!
+Feel free to explore the content, share feedback, and enjoy the journey through past, present, and future!
